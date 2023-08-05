@@ -1,6 +1,6 @@
 # My Project Hooks Execution Order
 
-My study project was designed to visualize the flow of executions of Hooks. showing flow through logs
+My study project was designed to visualize the flow of executions of Hooks. showing flow through logs, referencing the project: Hook Flow, described below
 
 Course: React.Js and Next.Js Course (Intermediate and Advanced) [Udemy Academy](https://www.udemy.com/) prof: Luiz Otávio Miranda
 
